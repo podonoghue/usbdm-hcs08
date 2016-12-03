@@ -4,7 +4,7 @@ PCB designs for HCS08 based USBDM.
 These are Altium designer projects.  
 
 Refer to the PDFs in the Project Outputs directory 
-<a href="https://github.com/podonoghue/usbdm-kinetis/blob/master/Hardware/USBDM_HCS08/Project%20Outputs%20for%20USBDM_Kinetis/USBDM_Kinetis.PDF">Main Board</img></a>
+<a href="https://github.com/podonoghue/usbdm-kinetis/blob/master/Hardware/USBDM_HCS08/Project%20Outputs%20for%20USBDM_SWD_SER_JS16CWJ/USBDM_SWD_SER_JS16CWJ.PDF">USBDM_SWD_SER_JS16CWJ</img></a>
 
 ====
 PCBs may be ordered from OSH park
