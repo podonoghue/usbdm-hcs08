@@ -1,0 +1,35 @@
+Protel Design System Design Rule Check
+PCB File : C:\Peter\Development\USBDM\PCB\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PcbDoc
+Date     : 29/08/2012
+Time     : 10:15:54 PM
+
+Processing Rule : Room USBDM_SWD_SER_JS16CWJ (Bounding Region = (22.22499mm, 46.101mm, 75.05699mm, 98.552mm) (InComponentClass('USBDM_SWD_SER_JS16CWJ'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.0254mm) (Max=7.62mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.016mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5588mm) (All),(Inpoly)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01

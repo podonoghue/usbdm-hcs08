@@ -1,2 +1,5 @@
 # usbdm-hcs08
-HCS08 based BDM Hardware
+=====
+USBDM BDM based on HCS08 device
+
+Work in progress
