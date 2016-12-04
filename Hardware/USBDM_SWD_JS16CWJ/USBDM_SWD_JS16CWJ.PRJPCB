@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for USBDM_SWD_JS16CWJ_V2
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -37,41 +37,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=USBDM_SWD_SER_JS16CWJ.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OAEEHJTW
-
-[Document2]
-DocumentPath=USBDM_SWD_SER_JS16CWJ.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UICHGGYM
-
-[Document3]
-DocumentPath=USBDM_SWD_SER_JS16CWJ.OutJob
+DocumentPath=USBDM_SWD_JS16CWJ.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,12 +53,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document2]
+DocumentPath=USBDM_SWD_JS16CWJ.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OMJXQHJN
+
+[Document3]
+DocumentPath=USBDM_SWD_JS16CWJ.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOBFJFNJ
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\Design Rule Check - USBDM_SWD_SER_JS16CWJ.html
+DocumentPath=Project Outputs for USBDM_SWD_JS16CWJ_V2\Design Rule Check - USBDM_SWD_JS16CWJ.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=USBDM_SWD_SER_JS16CWJ.PcbDoc.htm
+DocumentPath=Project Outputs for USBDM_SWD_JS16CWJ_V2\Design Rule Check - USBDM_SWD_JS16CWJ_V2.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -136,7 +136,7 @@ TemplateStoreRelative=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for USBDM_SWD_JS16CWJ_V2
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -297,10 +297,10 @@ TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
-OutputDocumentPath1=C:\Peter\Development\USBDM\PCB\USBDM_SER_JS16CWJ_SWD\USBDM_SER_JS16CWJ_SWD.PcbDoc
+OutputDocumentPath1=C:\Peter\Development\PCB\TBDML_JB16_SOIC(Minimal)\TBDML_JB16_SOIC28.PcbDoc
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.61|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=5.28|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 Configuration1_Name1=OutputConfigurationParameter2
 Configuration1_Item1=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
 Configuration1_Name2=OutputConfigurationParameter3
@@ -331,7 +331,7 @@ OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 OutputType4=Schematic Print
 OutputName4=Schematic Prints
-OutputDocumentPath4=C:\Users\Peter\Development\USBDM\PCB\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.SchDoc
+OutputDocumentPath4=C:\Peter\Development\USBDM\PCB\TBDML_JS16_SOIC20[Minimal]\TBDML_JS16_SOIC20[Minimal].SchDoc
 OutputVariantName4=
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
