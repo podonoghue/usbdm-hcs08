@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=
+OutputPath=Project Outputs for USBDM_SWD_SER_JS16CWJ
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -134,6 +134,9 @@ ExportBOM=-1
 TemplateFilename=BOM Default Template 95.xlt
 TemplateStoreRelative=-1
 SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for USBDM_SWD_SER_JS16CWJ
 
 [OutputGroup1]
 Name=Netlist Outputs

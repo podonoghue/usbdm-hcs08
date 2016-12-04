@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=USBDM_SWD_SER_JS16CWJ.OutJob
 Description=
-TargetOutputMedium=Generate Files
+TargetOutputMedium=Publish To PDF
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=\\HAP-PS07.ds.swin.edu.au\Staff Printer
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print To Adobe PDF
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=[No Variations]
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=2
@@ -52,7 +52,7 @@ OutputName2=PCB Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=1
@@ -102,7 +102,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=3
 OutputEnabled3_OutputMedium3=3
@@ -114,7 +114,7 @@ Configuration3_Item1=CaptionAsName
 Configuration3_Name2=Filter
 Configuration3_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration3_Name3=General
-Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=..\BOM Default Template.XLT|BatchMode=5|FormWidth=904|FormHeight=633|SupplierProdQty=1|SupplierAutoQty=False
+Configuration3_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=..\..\..\PCB\MyLibrary\BOM Default Template.XLT|BatchMode=5|FormWidth=1377|FormHeight=956|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration3_Name4=GroupOrder
 Configuration3_Item4=Comment=True|Footprint=True
 Configuration3_Name5=SortOrder
@@ -126,7 +126,7 @@ OutputName4=Gerber Files
 OutputCategory4=Fabrication
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -139,7 +139,7 @@ OutputName5=NC Drill Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -149,9 +149,9 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes
 
 [PublishSettings]
-OutputFilePath2=C:\Users\podonoghue\Documents\Development\USBDM\PCB\USBDM_SWD_SER_JS16CWJ_V4\.\USBDM_SWD_SER_JS16CWJ.pdf
+OutputFilePath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.pdf
 ReleaseManaged2=0
-OutputBasePath2=.\
+OutputBasePath2=Project Outputs for USBDM_SWD_SER_JS16CWJ\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -213,7 +213,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\podonoghue\Documents\Development\USBDM\PCB\USBDM_SWD_SER_JS16CWJ_V4\.\USBDM_SWD_SER_JS16CWJ.pdf
+RelativeOutputPath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
