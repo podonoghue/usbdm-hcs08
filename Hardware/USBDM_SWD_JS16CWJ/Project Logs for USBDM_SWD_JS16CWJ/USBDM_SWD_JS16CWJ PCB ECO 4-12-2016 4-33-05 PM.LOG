@@ -1,3 +1,0 @@
-Change Class Name : Old Net Name=USBDM_SWD_JS16CWJ_V2 New Net Name=USBDM_SWD_JS16CWJ
-Change Room Name: Old Name=USBDM_SWD_JS16CWJ_V2 New Name=USBDM_SWD_JS16CWJ
-Change Room Scope: Old Scope=InComponentClass('USBDM_SWD_JS16CWJ_V2') New Scope=InComponentClass('USBDM_SWD_JS16CWJ')
