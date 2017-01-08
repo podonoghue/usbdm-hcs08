@@ -1,5 +1,5 @@
 # usbdm-hcs08
 =====
-USBDM BDM based on HCS08 device
+USBDM BDM based on HCS08 device  
 
-Work in progress
+Firmware surce available here https://github.com/podonoghue/usbdm-firmware/tree/master/USBDM_JMxx  
