@@ -7,6 +7,9 @@ Refer to the PDFs in the Project Outputs directories:
 <a href="https://github.com/podonoghue/usbdm-hcs08/blob/master/Hardware/USBDM_SWD_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_JS16CWJ/USBDM_SWD_JS16CWJ.pdf">USBDM_SWD_JS16CWJ</img></a>  
 <a href="https://github.com/podonoghue/usbdm-hcs08/blob/master/Hardware/USBDM_SWD_SER_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_SER_JS16CWJ/USBDM_SWD_SER_JS16CWJ.pdf">USBDM_SWD_SER_JS16CWJ</img></a>  
 
+![An image](https://raw.githubusercontent.com/podonoghue/usbdm-hcs08/master/Hardware/USBDM_SWD_JS16CWJ/Top.png "Board Image")
+![An image](https://raw.githubusercontent.com/podonoghue/usbdm-hcs08/master/Hardware/USBDM_SWD_JS16CWJ/Bottom.png "Board Image")
+
 ====
 PCBs may be ordered from OSH park  
 USBDM_SWD_JS16CWJ  
