@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: USBDM_SWD_SER_JS16CWJ.PcbDoc   4/12/2016  2:19:30 PM
+NCDrill File Report For: USBDM_SWD_SER_JS16CWJ.PcbDoc   8/01/2017  12:17:29 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,9 +10,12 @@ Tool         Hole Size           Hole Type     Hole Count Plated       Tool Trav
 T1        13mil (0.3302mm)         Round          1                0.00 Inch (0.00 mm)
 T2        19.7mil (0.50038mm)      Round          45               10.56 Inch (268.15 mm)
 T3        23.6mil (0.59944mm)      Round          15               1.05 Inch (26.67 mm)
-T4        32mil (0.8128mm)         Round          3                0.20 Inch (5.08 mm)
-T5        35.4mil (0.89916mm)      Round          19               5.44 Inch (138.08 mm)
+T4        35.4mil (0.89916mm)      Round          21               6.58 Inch (167.26 mm)
 ---------------------------------------------------------------------------
-Totals                                            83               17.24 Inch (437.98 mm)
+Totals                                            82               18.19 Inch (462.08 mm)
+
+Two holes at same point : 1
+-----------------------
+1800,700
 
 Total Processing Time (hh:mm:ss) : 00:00:00

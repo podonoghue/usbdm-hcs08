@@ -1,16 +1,16 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Farnell PN~String~Farnell PN~100|Field=Digikey~String~Digikey~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=ProjectFullPath~C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=Title~Bill of Materials For Project [USBDM_SWD_SER_JS16CWJ.PRJPCB] (No PCB Document Selected)|ReportField=TotalQuantity~36|ReportField=ReportTime~11:13:26 PM|ReportField=ReportDate~5/12/2016|ReportField=ReportDateTime~5/12/2016 11:13:26 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~3.2|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~USBDM_JS16CWJ_V2|ReportField=DataSourceFileName~USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=DataSourceFullPath~C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PRJPCB
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Farnell PN~String~Farnell PN~100|Field=Digikey~String~Digikey~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=ProjectFullPath~C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=Title~Bill of Materials For Project [USBDM_SWD_SER_JS16CWJ.PRJPCB] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~12:16:30 PM|ReportField=ReportDate~8/01/2017|ReportField=ReportDateTime~8/01/2017 12:16:30 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~3.2|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~USBDM_JS16CWJ_V2|ReportField=DataSourceFileName~USBDM_SWD_SER_JS16CWJ.PRJPCB|ReportField=DataSourceFullPath~C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PRJPCB
 100nF|Capacitor SMT|C1, C4, C8, C10|CCNP2012-0805|Cap|4|8820120, 8820120, 1186187, 8820120|
 18pF|Capacitor SMT|C2, C7|CCNP2012-0805|Cap|2|1414673|
 470nF|Capacitor SMT|C3|CCNP2012-0805|Cap|1|1288279|
-10uF/10V|Capacitor Polarized (SMT - Case A)|C5, C6|TC3528-1411|Cap Polar|2|9527745|
-4u7F/10V|Polarized Capacitor|C9|SMT_CaseA|Cap Polar|1|9527737|
-LED Green|LED (Green SMT)|D1|LED-SMT-2|LED SMT,Green|1|5790852|
-miniSMDC050F|Polyswitch|F1|CR4532-1812|Polyswitch|1|1175839|
+10uF/10V|Capacitor SMT 1206|C5, C6|CCNP3216-1206|Cap_CCNP_1206|2|9527745|
+4u7F/10V|Capacitor SMT 1206|C9|CCNP3216-1206|Cap_CCNP_1206|1|9527737|
+LED Green|LED 0805 Green|D1|LED2012-0805-GREEN|LED-0805-Green|1|5790852|
+MINISMDC050F-2|PolySwitch miniSMDC Series, 500 mA, 1 A, 24 VDC|F1|PTC4532-1812|MINISMDC050F-2|1|1175839|
 USB_MINI_CONNECTOR|USB Mini-B Connector|J1|USB_Mini - SMT2|USB_MINI_CONNECTOR|1|1363522|
-PIN2X1||JP1|HDR1X2a|PIN2X1|1||
+PIN2X1||JP1|HDR1X2S|PIN2X1|1||
 BDM2X3||P1|BDM|BDM2X3|1||
 SWD-2x10|SWD Connector 2x10-Pin|P3|SWD-2x10 - reduced|SWD2X10-Reduced|1||
-Serial|Header, 4-Pin|P4|HDR1X4|Header 4|1||
+Serial|Header, 4-Pin|P4|HDR1X4S|Header 4|1||
 1k5|Resistor SMT|R1, R10|CR2012-0805|Res|2|1632464|
 1M|Resistor SMT|R2|CR2012-0805|Res|1|9236392|
 100K|Resistor SMT|R3, R5, R9, R13|CR2012-0805|Res|4|9332405, [NoParam], [NoParam], 1638463|
@@ -18,7 +18,6 @@ Serial|Header, 4-Pin|P4|HDR1X4|Header 4|1||
 680R|Resistor SMT|R7|CR2012-0805|Res|1|9334785|
 33R|Resistor SMT|R8, R11|CR2012-0805|Res|2|1631399|
 MC9S08JS16CWJ|Microcontroller with USB|U1|SO-G20|MC9S08JS16CWJ|1|1704517|
-MC33375ST-3.3T3|Low Dropout 300mA Voltage Regulator with ON/OFF Control|U2|318E-04|MC33375ST-3.3T3|1|1150444|
-74LV125A|Quad 3-State Non-Inverting Buffer (F1013776)|U4, U6|751A-03_N|MC74HC125AD|2|9592504|
-12MHz|Crystal (AVX  CX5032GB12000H0PESZZ)|Y1a|XTAL_SMT - 5x3.2|XTAL_SMT|1|F1368769|478-4359-1-ND
-CSTCR4M00G53-R0|4MHz Ceramic Resonator with caps|Y1b|Resonator_Murato|CSTCRxMxxG53|1|1170428|
+MC33375ST-3.3T3|Low Dropout 300mA Voltage Regulator with ON/OFF Control|U2|SOT223|MC33375ST-3.3T3|1|1150444|
+SN74LV125AD|Quad 3-state Buffer (5V Tolerant)|U3, U4|SO-14_M|SN74LV125AD|2|9592504|
+CX5032GB12000H0PESZZ|AVX CRYSTAL, SM, CX-53F, 12MHZ|Y1a|XTAL_SMT - 5x3.2|Crystal - CX5032GB12000H0PESZZ|1|1368769|

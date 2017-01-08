@@ -87,10 +87,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOBFJFNJ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for USBDM_SWD_JS16CWJ_V2\Design Rule Check - USBDM_SWD_JS16CWJ.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
