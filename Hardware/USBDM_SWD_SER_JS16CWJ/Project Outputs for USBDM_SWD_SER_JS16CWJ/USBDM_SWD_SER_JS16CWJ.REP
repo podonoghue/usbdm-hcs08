@@ -74,7 +74,7 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D22
+    D23
     D38
     D39
     D40
@@ -179,8 +179,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D22
-    D40
+    D23
+    D39
     D43
     D68
 *************************************************************
