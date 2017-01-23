@@ -1,9 +1,9 @@
 *************************************************************
-FileName = USBDM_SWD_SER_JS16CWJ.GBR
+FileName = USBDM_SWD_SER_JS16CWJ_shrink.GBR
 AutoAperture = True
 *************************************************************
 Generating : Top Layer
-      File : USBDM_SWD_SER_JS16CWJ.GTL
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GTL
 
     Adding Layer      : Top Layer
 
@@ -36,13 +36,11 @@ Used DCodes :
     D32
     D33
     D34
-    D35
-    D36
 *************************************************************
 
 *************************************************************
 Generating : Bottom Layer
-      File : USBDM_SWD_SER_JS16CWJ.GBL
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -52,6 +50,8 @@ Generating : Bottom Layer
 Used DCodes :
     D22
     D23
+    D24
+    D25
     D26
     D27
     D28
@@ -62,32 +62,28 @@ Used DCodes :
     D33
     D34
     D35
-    D36
-    D37
 *************************************************************
 
 *************************************************************
 Generating : Top Overlay
-      File : USBDM_SWD_SER_JS16CWJ.GTO
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GTO
 
     Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D23
+    D22
+    D36
+    D37
     D38
     D39
     D40
     D41
-    D42
-    D43
-    D44
-    D45
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : USBDM_SWD_SER_JS16CWJ.GTP
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GTP
 
     Adding Layer      : Top Paste
 
@@ -113,7 +109,7 @@ Used DCodes :
 
 *************************************************************
 Generating : Top Solder
-      File : USBDM_SWD_SER_JS16CWJ.GTS
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GTS
 
     Adding Layer      : Top Solder
 
@@ -123,6 +119,10 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D42
+    D43
+    D44
+    D45
     D46
     D47
     D48
@@ -141,15 +141,11 @@ Used DCodes :
     D61
     D62
     D63
-    D64
-    D65
-    D66
-    D67
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : USBDM_SWD_SER_JS16CWJ.GBS
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -159,40 +155,38 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D54
+    D55
+    D56
+    D57
     D58
     D59
     D60
     D61
     D62
     D63
-    D64
-    D65
-    D66
-    D67
 *************************************************************
 
 *************************************************************
 Generating : Bottom Overlay
-      File : USBDM_SWD_SER_JS16CWJ.GBO
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GBO
 
     Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D23
-    D39
-    D43
-    D68
+    D38
+    D64
 *************************************************************
 
 *************************************************************
 Generating : Keep-Out Layer
-      File : USBDM_SWD_SER_JS16CWJ.GKO
+      File : USBDM_SWD_SER_JS16CWJ_shrink.GKO
 
     Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D69
+    D65
 *************************************************************
 

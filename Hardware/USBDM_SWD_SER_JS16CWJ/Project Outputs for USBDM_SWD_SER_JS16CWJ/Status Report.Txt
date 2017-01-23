@@ -1,12 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
-From  : PCB Document [USBDM_SWD_SER_JS16CWJ.PcbDoc]
-   Generated File[USBDM_SWD_SER_JS16CWJ.TXT]
-   Generated File[USBDM_SWD_SER_JS16CWJ.LDP]
-   Generated File[USBDM_SWD_SER_JS16CWJ.DRR]
+From  : PCB Document [USBDM_SWD_SER_JS16CWJ_shrink.PcbDoc]
+   Generated File[USBDM_SWD_SER_JS16CWJ_shrink.TXT]
+   Generated File[USBDM_SWD_SER_JS16CWJ_shrink.LDP]
+   Generated File[USBDM_SWD_SER_JS16CWJ_shrink.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 6:34:36 PM On 8/01/2017
+Finished Output Generation At 11:03:26 PM On 23/01/2017

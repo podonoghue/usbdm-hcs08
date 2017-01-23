@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PcbDoc
-Date     : 8/01/2017
-Time     : 6:32:20 PM
+PCB File : C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.PcbDoc
+Date     : 23/01/2017
+Time     : 11:07:30 PM
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -27,9 +27,9 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Room USBDM_SWD_SER_JS16CWJ (Bounding Region = (875mil, 1815mil, 2955mil, 3880mil) (InComponentClass('USBDM_SWD_SER_JS16CWJ'))
+Processing Rule : Room USBDM_SWD_SER_JS16CWJ (Bounding Region = (1030mil, 1930mil, 2870mil, 3745mil) (InComponentClass('USBDM_SWD_SER_JS16CWJ'))
 Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

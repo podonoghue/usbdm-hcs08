@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PcbDoc
+DRC Rules Export File for PCB: C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=PolyGon Clearance|Scope=Board|Minimum=10.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
