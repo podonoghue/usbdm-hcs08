@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for USBDM_SWD_SER_JS16CWJ
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -105,66 +105,62 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\Design Rule Check - USBDM_SWD_SER_JS16CWJ.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=USBDM_SWD_SER_JS16CWJ.PcbDoc.htm
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.TXT
 DItemRevisionGUID=
 
@@ -209,7 +205,7 @@ TemplateStoreRelative=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for USBDM_SWD_SER_JS16CWJ
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
