@@ -149,7 +149,7 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes
 
 [PublishSettings]
-OutputFilePath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.pdf
+OutputFilePath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for USBDM_SWD_SER_JS16CWJ
 OutputPathMedia2=
@@ -213,7 +213,7 @@ OutputFileNameSpecial4=
 OpenOutput4=0
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.pdf
+RelativeOutputPath2=C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
