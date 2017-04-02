@@ -1,33 +1,33 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\podonoghue\Documents\Development\usbdm-hcs08\Hardware\USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.PcbDoc
-Date     : 23/01/2017
-Time     : 11:07:30 PM
+Date     : 2/04/2017
+Time     : 12:51:43 PM
 
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Room USBDM_SWD_SER_JS16CWJ (Bounding Region = (1030mil, 1930mil, 2870mil, 3745mil) (InComponentClass('USBDM_SWD_SER_JS16CWJ'))
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(Inpoly)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=10mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
-Processing Rule : Room USBDM_SWD_SER_JS16CWJ (Bounding Region = (1030mil, 1930mil, 2870mil, 3745mil) (InComponentClass('USBDM_SWD_SER_JS16CWJ'))
+Processing Rule : Width Constraint (Min=10mil) (Max=40mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(Inpoly)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 

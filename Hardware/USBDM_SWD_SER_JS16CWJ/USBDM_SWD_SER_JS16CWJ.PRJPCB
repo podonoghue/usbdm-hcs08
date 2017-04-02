@@ -147,6 +147,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for USBDM_SWD_SER_JS16CWJ\USBDM_SWD_SER_JS16CWJ_shrink.TXT
 DItemRevisionGUID=
 
+[Parameter1]
+Name=ProjectRevision
+Value=V3.5
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
