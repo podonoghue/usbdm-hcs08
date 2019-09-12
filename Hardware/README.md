@@ -1,11 +1,10 @@
 # USBDM HCS08 (PCB Designs)  
-====  
 PCB designs for HCS08 based USBDM.  
 These are Altium designer projects.  
 
 USBDM_SWD_JS16CWJ
 ====
-Refer to the PDFs in the Project Outputs directories:  <a href="https://github.com/podonoghue/usbdm-hcs08/blob/master/Hardware/USBDM_SWD_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_JS16CWJ/USBDM_SWD_JS16CWJ.pdf">USBDM_SWD_JS16CWJ</a>  
+Refer to the PDFs in the Project Outputs directories:  <a href=USBDM_SWD_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_JS16CWJ/USBDM_SWD_JS16CWJ.pdf">USBDM_SWD_JS16CWJ</a>  
 
 ![An image](https://raw.githubusercontent.com/podonoghue/usbdm-hcs08/master/Hardware/USBDM_SWD_JS16CWJ/Top.png "Top Board Image")  
 ![An image](https://raw.githubusercontent.com/podonoghue/usbdm-hcs08/master/Hardware/USBDM_SWD_JS16CWJ/Bottom.png "Bottom Board Image")  
@@ -14,7 +13,7 @@ PCBs may be ordered from OSH park  <a href="https://oshpark.com/shared_projects/
 
 USBDM_SWD_SER_JS16CWJ
 ====
-Refer to the PDFs in the Project Outputs directories:  <a href="https://github.com/podonoghue/usbdm-hcs08/blob/master/Hardware/USBDM_SWD_SER_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_SER_JS16CWJ/USBDM_SWD_SER_JS16CWJ.pdf">USBDM_SWD_SER_JS16CWJ</a>  
+Refer to the PDFs in the Project Outputs directories:  <a href="USBDM_SWD_SER_JS16CWJ/Project%20Outputs%20for%20USBDM_SWD_SER_JS16CWJ/USBDM_SWD_SER_JS16CWJ.pdf">USBDM_SWD_SER_JS16CWJ</a>  
 
 ![An image](https://raw.githubusercontent.com/podonoghue/usbdm-hcs08/master/Hardware/USBDM_SWD_SER_JS16CWJ/Top.png "Top Board Image")  
 
